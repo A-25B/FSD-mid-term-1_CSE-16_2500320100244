@@ -1,7 +1,7 @@
 {
   "name": "fsd-mid-term-1_cse-16_2500320100244",
   "version": "1.0.0",
-  "description": "",
+  "description": "a",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
