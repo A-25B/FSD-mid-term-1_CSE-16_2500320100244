@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
         "Content-Type": "text/plain"
     });
 
-    res.end("FSD Mid-Term-1 Application Running!");
+    res.end("FSD Mid-Term-1 Application Running!  port no. 3000");
 });
 
 server.listen(PORT, () => {
